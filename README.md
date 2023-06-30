@@ -1,0 +1,1 @@
+# Hackintosh-EFI-ASUS-D630MT-i5-7500-RX5500XT
